@@ -289,6 +289,11 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 3.5em 0;
   clear: both;
 }
+
+.fh5co-about-heading {
+  color: #000;
+}
+
 @media screen and (max-width: 768px) {
   #fh5co-about,
   #fh5co-resume,
@@ -311,7 +316,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #FF9000;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
-  color: #fff !important;
+  color: #043b72;
 }
 
 .info {
@@ -415,7 +420,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 40px;
   margin-bottom: 20px;
   line-height: 1.5;
-  color: #000;
+  color: #043b72;
 }
 .fh5co-heading p {
   font-size: 18px;
@@ -786,6 +791,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
   float: left;
   width: 100%;
+  color: white;
 }
 #fh5co-started .fh5co-heading {
   margin-bottom: 0;
@@ -902,7 +908,7 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 1.5;
 }
 .fh5co-blog .blog-text h3 a {
-  color: black;
+  color: #043b72;
 }
 
 #fh5co-consult {
@@ -1066,7 +1072,7 @@ input[type="text"] {
   width: 50px;
   height: 50px;
   display: table;
-  background: rgba(0, 0, 0, 0.8);
+  background: #043b72;
   color: #fff;
   text-align: center;
   -webkit-border-radius: 50%;
